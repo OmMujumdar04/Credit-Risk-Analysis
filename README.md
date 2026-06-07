@@ -1,4 +1,4 @@
-# Credit Risk Prediction 🏦
+# Credit Risk Prediction 
 
 A machine learning project to predict credit card default risk using real-world banking data.
 
